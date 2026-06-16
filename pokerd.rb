@@ -1,8 +1,8 @@
 class Pokerd < Formula
   desc "A command line Texas Hold'em implementation"
   homepage "https://github.com/filiph/pokerd"
-  url "https://github.com/filiph/pokerd/archive/1.0.3.tar.gz"
-  sha256 "3f4690b233f948e9354382d65d641f9c3f6190d8ad4f96c3313b3d9562a06c18"
+  url "https://github.com/filiph/pokerd/archive/1.0.5.tar.gz"
+  sha256 "c1bb5ce36b3b5cea743f76fb379df9c08a1424ac00f17455927313c4d54fee42"
   license "MIT"
 
   depends_on "dart" => :build
